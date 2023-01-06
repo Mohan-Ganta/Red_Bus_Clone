@@ -99,17 +99,6 @@ The Application Runs on localhost:3000
 ![Screenshot_15](https://user-images.githubusercontent.com/53153822/141642854-2cb41582-a94d-495e-bf89-17bdf4b463b8.png)
 
 ### Ticket Generated:
-![Screenshot_16](https://user-images.githubusercontent.com/53153822/141642876-5456b802-44f3-4bca-8145-c3ef0ca5ffd6.png)
-
-
-
-## Authors
-
-- [@MansurDewan](https://github.com/mansur3)
-- [@RaniKamna](https://github.com/RaniKamna)
-- [@PavanKalyan](https://github.com/Pavankalyan477)
-- [@SummitKumar](https://github.com/sumit-krk)
-- [@RanuRanjan](https://github.com/RanuRanjan)
 
 
 
